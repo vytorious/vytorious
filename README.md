@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vytorious
+- 👋 Hi, I’m @vytorious.
 - 👀 I’m interested in software testing and creating tools to enhance the reach of software testers.
 - 🌱 I’m currently learning wed app security testing and Python.
 - 💞️ I’m looking to collaborate on software testing tools.
