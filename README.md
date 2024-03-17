@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vytorious.
 - 👀 I’m interested in software testing and creating tools to enhance the reach of software testers.
-- 🌱 I’m currently learning about web application security testing and Python.
+- 🌱 I’m currently learning about web application security testing and creating tooling using bash scripting.
 - 💞️ I’m looking to collaborate on software testing tools.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
